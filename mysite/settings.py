@@ -105,7 +105,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
-
+# It's my birthday today on 23rd November. :) 
+# Wish me happy birthday on the mail: akashgiricse@gmail.com whenever you see this comment. :) 
 TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
@@ -119,3 +120,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
+
+
