@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+body {
+    background-image:url('<iframe src="https://giphy.com/embed/RM7ObEq9bjBJe" width="480" height="211" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-animation-lol-RM7ObEq9bjBJe">via GIPHY</a></p>');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
