@@ -25,7 +25,7 @@ SECRET_KEY = '=taz(%o!n#(0(%rg=-a8yycd#f=!@m1bzsb88mu+x-7l5x3ote'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['akashpollapp.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','akashpollapp.pythonanywhere.com']
 
 
 # Application definition
