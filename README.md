@@ -1,6 +1,6 @@
 # Poll-App-Project 
 
-# Click [here](http://akashpollapp.pythonanywhere.com/polls/) to visit my blog site. <br />
+# Click [here](http://akashpollapp.pythonanywhere.com/) to visit my blog site. <br />
 This site will be disabled on Wednesday 28 February 2018.
 
 If you want to run this project at your own pc,<br />
